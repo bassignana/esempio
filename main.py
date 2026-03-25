@@ -1,2 +1,3 @@
-print('ok')
-print('ok')
+import streamlit as st
+
+st.write('Ciao Mamma!')
